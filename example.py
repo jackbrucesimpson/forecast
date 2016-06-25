@@ -6,7 +6,6 @@ import numpy as np
 from weather import Weather
 from logdata import LogData
 
-
 def main():
     dates = ['2015-06-20', '2015-06-21', '2015-06-22', '2015-06-23', '2015-06-24']
     api_key = os.environ.get("WEATHER_API_KEY", None)
