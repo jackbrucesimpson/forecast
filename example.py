@@ -28,7 +28,6 @@ def main():
         logger.log_output(night_weather, each_date, 'night')
         logger.log_output(day_weather, each_date, 'day')
 
-
     logger.write_output('test.csv')
 
 if __name__ == "__main__":

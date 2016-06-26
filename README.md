@@ -1,5 +1,5 @@
 # Forecast
-A package for retrieving daily weather data using the [forecast.io](http://forecast.io/) API. Uses [NumPy](http://www.numpy.org/) and [pandas](http://pandas.pydata.org/) packages.
+A package for retrieving daily weather data using the [forecast.io](http://forecast.io/) API. Uses the [NumPy](http://www.numpy.org/) and [pandas](http://pandas.pydata.org/) packages.
 
 I wrote this as part of my PhD analysing honeybee behaviour and thought I'd give this code it's own package so I could reuse it later for other projects.
 
